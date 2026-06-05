@@ -1,0 +1,11 @@
+Customer_ID,Plan,Monthly_Fee,Months_Subscribed,Status
+1,Basic,500,12,Active
+2,Premium,1000,8,Active
+3,Basic,500,6,Inactive
+4,Enterprise,2000,15,Active
+5,Premium,1000,10,Active
+6,Basic,500,4,Inactive
+7,Enterprise,2000,18,Active
+8,Premium,1000,12,Active
+9,Basic,500,9,Active
+10,Enterprise,2000,20,Active
